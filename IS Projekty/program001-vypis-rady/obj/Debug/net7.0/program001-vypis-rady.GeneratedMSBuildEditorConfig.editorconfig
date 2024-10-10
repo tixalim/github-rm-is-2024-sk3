@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = program001_vypis_rady
 build_property.ProjectDir = C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

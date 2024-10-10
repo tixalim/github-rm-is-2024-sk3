@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ITqf4JwMdBX4AAXBIBc2aHEDbZc6O/rKIkNMBMxO6b/N3HevqmYGXr8MDQGwkXTSvah+Sj0m/dQXpd55wUw7vg==",
+  "dgSpecHash": "/epIRFgJEmM=",
   "success": true,
   "projectFilePath": "C:\\IS-2024\\github-rm-is-2024-sk3\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rosa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rosa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rosa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rosa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
