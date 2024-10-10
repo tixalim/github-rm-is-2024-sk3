@@ -39,7 +39,13 @@
         Console.WriteLine("Diference: {0}", step);
 
 
+        //logika pro vypis rady
+        int current = first;
+        while(current <= last){
+            Console.WriteLine(current);
+            current = current + step;
 
+        }
 
 
         Console.WriteLine();
