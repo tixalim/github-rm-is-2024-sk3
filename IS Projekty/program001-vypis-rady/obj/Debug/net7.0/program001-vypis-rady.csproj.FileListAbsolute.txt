@@ -12,3 +12,4 @@ C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\obj\Debug\net
 C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.pdb
 C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.genruntimeconfig.cache
 C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\obj\Debug\net7.0\ref\program001-vypis-rady.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program001-vypis-rady\obj\Debug\net7.0\program001-vypis-rady.sourcelink.json
