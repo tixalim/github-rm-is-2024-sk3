@@ -4,7 +4,7 @@
             Console.Clear();
             Console.WriteLine("*****************************************");
             Console.WriteLine("**** Generátor pseudonáhodných čísel ****");
-            Console.WriteLine("*************** Tomáš Žižka *************");
+            Console.WriteLine("****************** Rose *****************");
             Console.WriteLine("*****************************************");
             Console.WriteLine();
             Console.WriteLine();
@@ -26,19 +26,27 @@
             while(!int.TryParse(Console.ReadLine(), out hm)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte horní mez znovu (celé číslo): ");
             }
-
-
-
-            
+           
             Console.WriteLine();
             Console.WriteLine("========================================================");
             Console.WriteLine("Zadané hodnoty: ");
             Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("========================================================\n\n");
             
-            
-            
+            //deklarace pole o velikosti n prvku
+            int[] myArray = new int[n];
 
+            //priprava pro generator
+            Random randomNumber = new Random();
+
+                
+            for(int i=0; i < n; i++){
+                myArray [i] = randomNumber.Next(dm, hm);
+                Console.Write("{0}; ", myArray[i]);
+
+
+
+            }
 
            
             Console.WriteLine();
