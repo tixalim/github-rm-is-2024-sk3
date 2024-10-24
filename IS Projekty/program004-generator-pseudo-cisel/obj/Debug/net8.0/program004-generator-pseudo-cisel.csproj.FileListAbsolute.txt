@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\bin\Debug\net8.0\program004-generator-pseudo-cisel.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\bin\Debug\net8.0\program004-generator-pseudo-cisel.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\bin\Debug\net8.0\program004-generator-pseudo-cisel.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\bin\Debug\net8.0\program004-generator-pseudo-cisel.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\bin\Debug\net8.0\program004-generator-pseudo-cisel.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\refint\program004-generator-pseudo-cisel.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\program004-generator-pseudo-cisel.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program004-generator-pseudo-cisel\obj\Debug\net8.0\ref\program004-generator-pseudo-cisel.dll
