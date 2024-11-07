@@ -44,20 +44,23 @@
             
             int max = myArray[0];
             int min = myArray[0];
+            int posMax = 0;
+            int posMin = 0;
 
             for(int i = 1; i < n; i++){
                 if(myArray[i] > max){
                     max = myArray[i];
+                    posMax = i;
                 }
                 if(myArray[i] < min){
                     min = myArray[i];
+                    posMin = i;
                 }
             }
-
-            
-
             Console.WriteLine("\n\nNejvetsi prvek je: {0}", max);
             Console.WriteLine("Nejmensi prvek je: {0}", min);
+            Console.WriteLine("Pozice nejvetsiho prvku je: {0}", posMax);
+            Console.WriteLine("Pozice nejmensiho prvku je: {0}", posMin);
 
 
             
