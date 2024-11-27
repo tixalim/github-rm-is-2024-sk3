@@ -4,7 +4,7 @@ string again = "a";
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("***********************************************");
-            Console.WriteLine("******* Generátor - interval *******");
+            Console.WriteLine("******* Generátor - intervaly *******");
             Console.WriteLine("***********************************************");
             Console.WriteLine("**************** Tomáš Žižka ******************");
             Console.WriteLine("***********************************************\n\n");
