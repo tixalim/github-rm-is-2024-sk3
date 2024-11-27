@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\bin\Debug\net8.0\program003e-zed.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\bin\Debug\net8.0\program003e-zed.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\bin\Debug\net8.0\program003e-zed.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\bin\Debug\net8.0\program003e-zed.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\bin\Debug\net8.0\program003e-zed.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\refint\program003e-zed.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\program003e-zed.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003e-zed\obj\Debug\net8.0\ref\program003e-zed.dll

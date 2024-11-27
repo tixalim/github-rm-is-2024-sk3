@@ -52,20 +52,7 @@ string again = "a";
             int numberCompare = 0;
             int numberChange = 0;
 
-            //bubble sort
-            /*for(int i=0; i<n-1; i++) {
-                for(int j=0 ; j<n-i-1; j++) {
-                    numberCompare++;
-                    if(myArray[j] < myArray[j+1]) {
-                        int tmp = myArray[j];
-                        myArray[j] = myArray[j+1];
-                        myArray[j+1] = tmp;
-                        numberChange++;
-                    }
-                }
-            }
-            myStopwatch.Stop();*/
-
+            
             //selection sort
             for(int i = 0; i < n-1; i++){
                 int MaxIndex = i;

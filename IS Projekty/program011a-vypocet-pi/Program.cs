@@ -15,7 +15,7 @@ while(again == "a") {
         Console.Write("Nezadali jste přesnost správně. Zadejte znovu: ");
     }
 
-    double i = 1;
+            double i = 1;
             double znamenko = 1;
             double piCtvrt = 1;
 
@@ -23,11 +23,11 @@ while(again == "a") {
                 i = i + 2;
                 znamenko = -znamenko;
                 piCtvrt = piCtvrt + znamenko * (1/i);
-                if(znamenko==1) {
+                /*if(znamenko==1) {
                     Console.WriteLine("Zlomek: +1/{0}; aktuální hodnota PI = {1}", i, piCtvrt*4);
                 }
                 else
-                    Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, piCtvrt*4);
+                    Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, piCtvrt*4);*/
             }
             
             Console.WriteLine("\n\nHodnota čísla PI = {0}", piCtvrt * 4);

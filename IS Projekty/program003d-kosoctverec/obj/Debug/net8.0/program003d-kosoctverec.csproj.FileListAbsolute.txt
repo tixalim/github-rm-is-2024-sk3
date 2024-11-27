@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\bin\Debug\net8.0\program003d-kosoctverec.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\bin\Debug\net8.0\program003d-kosoctverec.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\bin\Debug\net8.0\program003d-kosoctverec.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\bin\Debug\net8.0\program003d-kosoctverec.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\bin\Debug\net8.0\program003d-kosoctverec.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\refint\program003d-kosoctverec.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\program003d-kosoctverec.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003d-kosoctverec\obj\Debug\net8.0\ref\program003d-kosoctverec.dll

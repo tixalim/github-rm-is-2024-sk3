@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\refint\program007-bubble-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program007-bubble-sort\obj\Debug\net8.0\ref\program007-bubble-sort.dll
