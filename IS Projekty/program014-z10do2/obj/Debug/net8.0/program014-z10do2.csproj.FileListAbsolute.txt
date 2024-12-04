@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\bin\Debug\net8.0\program014-z10do2.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\bin\Debug\net8.0\program014-z10do2.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\bin\Debug\net8.0\program014-z10do2.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\bin\Debug\net8.0\program014-z10do2.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\bin\Debug\net8.0\program014-z10do2.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\refint\program014-z10do2.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\program014-z10do2.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program014-z10do2\obj\Debug\net8.0\ref\program014-z10do2.dll

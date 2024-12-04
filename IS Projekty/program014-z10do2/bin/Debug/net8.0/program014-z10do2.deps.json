@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program014-z10do2/1.0.0": {
+        "runtime": {
+          "program014-z10do2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program014-z10do2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
