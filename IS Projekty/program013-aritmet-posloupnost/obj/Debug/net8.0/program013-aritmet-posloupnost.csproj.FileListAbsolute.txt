@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\bin\Debug\net8.0\program013-aritmet-posloupnost.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\bin\Debug\net8.0\program013-aritmet-posloupnost.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\bin\Debug\net8.0\program013-aritmet-posloupnost.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\bin\Debug\net8.0\program013-aritmet-posloupnost.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\bin\Debug\net8.0\program013-aritmet-posloupnost.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\refint\program013-aritmet-posloupnost.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\program013-aritmet-posloupnost.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program013-aritmet-posloupnost\obj\Debug\net8.0\ref\program013-aritmet-posloupnost.dll
