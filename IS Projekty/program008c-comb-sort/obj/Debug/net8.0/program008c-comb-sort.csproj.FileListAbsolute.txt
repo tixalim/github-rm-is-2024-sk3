@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\bin\Debug\net8.0\program008c-comb-sort.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\bin\Debug\net8.0\program008c-comb-sort.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\bin\Debug\net8.0\program008c-comb-sort.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\bin\Debug\net8.0\program008c-comb-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\bin\Debug\net8.0\program008c-comb-sort.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\refint\program008c-comb-sort.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\program008c-comb-sort.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program008c-comb-sort\obj\Debug\net8.0\ref\program008c-comb-sort.dll

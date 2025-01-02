@@ -1,0 +1,15 @@
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\bin\Debug\net8.0\program003c-hodiny.exe
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\bin\Debug\net8.0\program003c-hodiny.deps.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\bin\Debug\net8.0\program003c-hodiny.runtimeconfig.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\bin\Debug\net8.0\program003c-hodiny.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\bin\Debug\net8.0\program003c-hodiny.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.AssemblyInfoInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.AssemblyInfo.cs
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.sourcelink.json
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\refint\program003c-hodiny.dll
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.pdb
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\program003c-hodiny.genruntimeconfig.cache
+C:\IS-2024\github-rm-is-2024-sk3\IS Projekty\program003c-hodiny\obj\Debug\net8.0\ref\program003c-hodiny.dll
