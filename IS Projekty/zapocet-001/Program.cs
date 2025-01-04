@@ -1,11 +1,9 @@
-﻿using System.Security.Authentication.ExtendedProtection;
-
-string again = "a";
+﻿string again = "a";
     while(again == "a") {
 
-        int n = 11;
+        int n = 10;
         int dm = 1;
-        int hm = 20;
+        int hm = 15;
         /*Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
         int n;
         while(!int.TryParse(Console.ReadLine(), out n)) {
@@ -122,10 +120,10 @@ string again = "a";
                 return cislo;
             }
             Console.WriteLine("\n----------------------");
-            Console.WriteLine($"\nDruhe nejvetsi cislo je: {GetNumber(2, myArray)}");        
+            Console.WriteLine($"Druhe nejvetsi cislo je: {GetNumber(2, myArray)}");        
             Console.WriteLine($"Treti nejvetsi cislo je: {GetNumber(3, myArray)}");        
             Console.WriteLine($"Ctvrte nejvetsi cislo je: {GetNumber(4, myArray)}");
-            Console.WriteLine("\n----------------------");
+            Console.WriteLine("----------------------");
 
 
             double median;
@@ -148,16 +146,42 @@ string again = "a";
                 zaloha = zaloha / 2; 
                 index++;
             }
-            Console.WriteLine("\n----------------------");
+            Console.WriteLine("----------------------");
             Console.Write($"{GetNumber(4, myArray)} je v 2 soustave zapsano: ");
             for (int i = index - 1; i >= 0; i--) 
             {
                 Console.Write($"{prevod[i]} ");
             }
             Console.WriteLine();
-            Console.WriteLine("\n----------------------");
+            Console.WriteLine("----------------------");
 
-            Console.WriteLine("\nObrazec: vyska (median), sirka(treti nejvetsi cislo): ");
+            Console.WriteLine($"Obrazec: vyska (median: {Math.Round(median)}), sirka(treti nejvetsi cislo: {GetNumber(3, myArray)})");
+            
+            int height = (int)Math.Round(median); //radky
+            int width = GetNumber(3, myArray); //sloupce
+
+            
+
+            for (int i = 0; i < height; i++)
+                    {
+                        for (int j = 0; j < width; j++) 
+                        {
+                            if ((i < 2 || i >= height-2) && (j >= 2 && j < width-2))
+                            {
+                                Console.Write("* ");
+                            }
+                            else if (i >= 2 && i < height - 2)
+                            {
+                                Console.Write("* ");
+                            }
+                            else
+                            {
+                                Console.Write("  ");
+                            }
+                        }
+                        Console.WriteLine();
+                    }
+            
 
             
         

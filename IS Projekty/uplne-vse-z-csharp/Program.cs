@@ -299,7 +299,7 @@ Console.WriteLine($"Cifra {a} se v čísle {zaloha} vyskytuje {suma}krát.");
 
 Console.WriteLine("\n\n===========================================");
 Console.WriteLine($"Vyhledání extrémů v poli, max min jejich počet a pozice:\n");
-min = pole[0];
+int min = pole[0];
 int max = pole[0];
 int pocetmin = 0;
 int pocetmax = 0;

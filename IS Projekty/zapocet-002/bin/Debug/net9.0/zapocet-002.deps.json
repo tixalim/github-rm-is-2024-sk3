@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "zapocet-002/1.0.0": {
+        "runtime": {
+          "zapocet-002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zapocet-002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
