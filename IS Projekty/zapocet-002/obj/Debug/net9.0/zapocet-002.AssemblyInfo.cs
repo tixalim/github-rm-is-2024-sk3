@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zapocet-002")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+831ae62d27e930076c02e0589b73a477e0edc32b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32e009464957588b5dbaccfe7cefa5308dc569ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("zapocet-002")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zapocet-002")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
