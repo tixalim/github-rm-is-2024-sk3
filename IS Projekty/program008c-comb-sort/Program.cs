@@ -62,7 +62,6 @@ string again = "a";
                 {
                     gap = 1;
                 }
-
                 sorted = true;
                 for (int i = 0; i + gap < myArray.Length; i++)
                 {

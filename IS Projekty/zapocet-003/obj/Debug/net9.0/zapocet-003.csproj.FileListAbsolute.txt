@@ -1,0 +1,15 @@
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\bin\Debug\net9.0\zapocet-003.exe
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\bin\Debug\net9.0\zapocet-003.deps.json
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\bin\Debug\net9.0\zapocet-003.runtimeconfig.json
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\bin\Debug\net9.0\zapocet-003.dll
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\bin\Debug\net9.0\zapocet-003.pdb
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.AssemblyInfoInputs.cache
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.AssemblyInfo.cs
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.csproj.CoreCompileInputs.cache
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.sourcelink.json
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.dll
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\refint\zapocet-003.dll
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.pdb
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\zapocet-003.genruntimeconfig.cache
+C:\Users\rosa\Desktop\IS2024\github-rm-is-2024-sk3\IS Projekty\zapocet-003\obj\Debug\net9.0\ref\zapocet-003.dll
