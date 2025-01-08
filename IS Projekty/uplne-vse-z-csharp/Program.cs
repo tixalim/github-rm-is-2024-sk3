@@ -143,7 +143,7 @@ if (prvek > 2){
 }
 
 Console.WriteLine("\n\n===========================================");
-Console.WriteLine("NSD a NSn: \n"); //nejvetsi spolecny delitel, nejmensi spolecny nasobek
+Console.WriteLine("NSD a NSN: \n"); //nejvetsi spolecny delitel, nejmensi spolecny nasobek
 a = 15;
 b = 42;
 int nsd = 0;
